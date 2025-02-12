@@ -4,7 +4,7 @@
 # import packagaes for images and arrays
 import matplotlib.pyplot as plt
 import numpy as numpy
-import PIL
+from PIL import Image
 
 input = "dog.png"
 
